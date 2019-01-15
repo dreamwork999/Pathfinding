@@ -1,27 +1,12 @@
-# Object files
-*.o
-*.ko
-*.class
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
 
-# Libraries
-*.lib
-*.a
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-Java/*.jar
-
-#Build folders
-build/
-
-#IDE
-.project
-.cproject
